@@ -4,11 +4,12 @@ Anti-Grain Geometry (AGG) port with SDL in Android Studio with cmake
 
 ### Details
 
-#### Anti-Grain Geometry (AGG) is a general purpose graphical toolkit written completely in standard and platform independent C++.
+#### Anti-Grain Geometry (AGG) is a general purpose graphical toolkit written in C++.
  * LibAgg: http://www.antigrain.com/
  * More information: [http://www.libsdl.org/](http://www.libsdl.org/)
- * The template is compiled with sdl version 2.0.8
+ * Compiled with sdl version 2.0.8
  * Other resources: https://bitbucket.org/przemekr/oware
+ * A Demo for me to learn sdl and android cmake
 
 ### Screenshot
 ![screenshot](https://github.com/huzongyao/AggSDL2Demo/blob/master/misc/screen.gif?raw=true)
@@ -23,4 +24,3 @@ Anti-Grain Geometry (AGG) port with SDL in Android Studio with cmake
  * Gmail: [hzy3774@gmail.com](mailto:hzy3774@gmail.com)
  * Foxmail: [hzy3774@qq.com](mailto:hzy3774@qq.com)
  * WeChat: hzy3774
- ![image](https://raw.githubusercontent.com/hzy3774/AndroidP7zip/master/misc/wechat.png)
